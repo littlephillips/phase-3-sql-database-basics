@@ -1,0 +1,48 @@
+  : Describe hoe relational databses storre data in tables composed of columns and rows
+  : Understand databse naming conventions 
+  : Use the CREATE TABLE, ALTER TABLE, DROP TABLE
+  : Use the  .help, .table amd .schema commands
+
+note on columns names
+    : use lowercase letters 
+    : use of snake case 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

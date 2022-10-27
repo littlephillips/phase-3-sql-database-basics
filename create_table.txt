@@ -1,0 +1,25 @@
+when creating a table include some defination of the structure of 
+of this table as well 
+
+: Use the CREATE TABLE  command to create a new table called "cats'
+: include list of column name & the data they will be storing
+: every table we create, regardless of other column names ans data types , have a id INTEGER PRIMARY KEY
+
+
+CREATE TABLE cats (
+  id INTEGER PRIMARY KEY,
+  name TEXT,
+  age INTEGER
+); 
+
+check structure or schema 
+.schema
+
+Alter table
+Adding,removing and renanming columns
+
+ALTER TABLE cats ADD COLUMN breed TEXT
+
+Delete a table
+DROP TABLE
+
